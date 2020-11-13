@@ -6,4 +6,4 @@ This is a package to find topsis score and rank of a dataframe with only numeric
 ########################
 Command Line Usage :
 
->>python topsis.py "input.csv" "1,1,1,2" "+,+,+,-" "out.csv"
+>>python topsis.py "input.csv" "1,1,1,2" "+,+,+,-" "result.csv"
