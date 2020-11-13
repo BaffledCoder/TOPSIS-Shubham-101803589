@@ -11,7 +11,7 @@ classifiers = [
 setup(
   name='TOPSIS-Shubham-101803589',
   version='0.0.1',
-  description='A very basic calculator',
+  description='Technique of Order Preference Similarity to the Ideal Solution',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='https://github.com/BaffledCoder/TOPSIS-Shubham-101803589',  
   author='Shubham Sharma',
